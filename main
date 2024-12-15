@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+    <html lang="fr">
+        <head>
+            <title> POLICE NATIONALE V2</title>
+            <meta charset="utf-8">
+            <link rel="icon" href="images/logo_pp.jpeg" width="100px" height="100px">
+
+            <!-- CSS -->
+            <link rel="stylesheet" href="styles/stylesHome.css">
+
+            <!--  FONT  -->
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+             
+        </head>
+
+        <body>
+            <section>
+                <div class="container">
+                    <header>
+                        <div class="left">
+                            <a href="https://www.police-nationale.interieur.gouv.fr/" target="_BLANK"><img src="images/blancpn.jpeg" alt="Logo Police NATIONALE blanc" width="200px" height="100px"></a>
+                        </div>
+                        <div class="right">
+                            <nav class="nav-links">
+                                <a href="index.html">HOME</a>
+                                <a href="navlinks/corps/corpsCEA.html">Corps d'Encadrement et d'Application</a>
+                                <a href="navlinks/corps/corpsC.html">Corps de Commandement</a>
+                                <a href="navlinks/corps/corpsCD.html">Corps Conception et de Direction</a>
+                                <a href="navlinks/spé/spécialités.html">Spécialités</a>
+                            </nav>
+                        </div>
+                    </header>
+                    <div class="middle-content">
+                        <div class="left">
+                            <h1>PRÉFECTURE DE POLICE DE PARIS (75)</h1>
+                            <a href="navlinks/spé/spécialités.html"><img src="images/logo_pp.jpeg" alt="Logo Police NATIONALE" width="200px" height="200px"></a>
+                        </div>
+                        <div class="right">
+                            <div class="bloc-text">
+                                <h1>POLICE NATIONALE</h1>
+                                <p> LE SITE SERT A VOUS FAIRE DECOUVRIR LES DIFFÉRENTES SPÉCIALITÉS ET LES DIFFÉRENTS CORPS/GRADES DE LA POLICE-NATIONALE de PARIS(75) </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </body>
+    </html>
